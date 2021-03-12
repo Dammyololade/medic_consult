@@ -1,6 +1,6 @@
 # medic_consult
 
-A mobile application for patients and family members of patients to seek instant clarity on medical conditions and medical reports (diagnostic reports and doctors report) and suggest reminders and follow-ups for patients with easy-to-understand reasons.
+A mobile application
 
 ## Getting Started
 
